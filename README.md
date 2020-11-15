@@ -14,6 +14,6 @@
     Korioz: https://github.com/Korioz
     MRV: https://github.com/MRV6
     ESX: https://github.com/esx-framework
-    DPEMOTES: https://github.com/andristum
+    Andistum: https://github.com/andristum
     RageUI: https://github.com/iTexZoz/RageUI
     

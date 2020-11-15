@@ -200,7 +200,7 @@ Citizen.CreateThread(function()
 end)
 
 Citizen.CreateThread(function()
-        SetDiscordAppId(645304861532880948)
+        SetDiscordAppId(APPID)
         SetDiscordRichPresenceAsset('discord_1')
         SetDiscordRichPresenceAssetText('FanTasTic')
         SetDiscordRichPresenceAssetSmall('discord')

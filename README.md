@@ -4,7 +4,7 @@
 
 ⚠️ NE VOUS FAITES PAS AVOIR PAR CEUX QUI VENDENT LA BASE ⚠️
 
-[CREDITS
+[CREDITS]
 
     DVR: https://github.com/DeVerino-DVR
     Morow: https://github.com/Morow73 

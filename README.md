@@ -4,6 +4,8 @@
 
 ⚠️ NE VOUS FAITES PAS AVOIR PAR CEUX QUI VENDENT LA BASE ⚠️
 
+⚠️ AUCUN SUPPORT ⚠️
+
 [CREDITS]
 
     DVR: https://github.com/DeVerino-DVR

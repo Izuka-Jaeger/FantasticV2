@@ -6,6 +6,8 @@
 
 ⚠️ AUCUN SUPPORT ⚠️
 
+⚠️ IL EST INTERDIT DE REPRENDRE LE NOM "FANTASTIC" pour votre serveur ⚠️ 
+
 [CREDITS]
 
     DVR: https://github.com/DeVerino-DVR

@@ -8,6 +8,8 @@
 
 ⚠️ IL EST INTERDIT DE REPRENDRE LE NOM "FANTASTIC" POUR VOTRE SERVEUR ⚠️ 
 
+⚠️ DISCORD OFFICIEL: https://discord.gg/UU2H9be ⚠️
+
 [CREDITS]
 
     DVR: https://github.com/DeVerino-DVR
